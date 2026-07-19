@@ -1,6 +1,6 @@
-#HELLO WORLD
+# HELLO WORLD
 
-##Bu bir repo denemesidir.
+## Bu bir repo denemesidir.
 
 **kalın** <br/>
 *italik*
